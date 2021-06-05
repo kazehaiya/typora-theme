@@ -8,11 +8,8 @@
 
 ## 内容样式
 
-![](/Users/caiyin/MyCode/typora-theme/assets/demo.png)
+![](./assets/demo.png)
 
 ## 参考内容
 
 [typora-theme-orange-heart](https://github.com/evgo2017/typora-theme-orange-heart)
-
-
-
