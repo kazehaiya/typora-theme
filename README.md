@@ -8,7 +8,7 @@
 
 ## 内容样式
 
-![](./assets/demo.png)
+![样式在 assets 文件夹内](./assets/demo.png)
 
 ## 参考内容
 
